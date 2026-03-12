@@ -61,10 +61,10 @@ i don't mass follow tutorials — i break stuff, read the source, and figure it 
 
 </div>
 
-**[Reply-AI](https://github.com/rajdeblol)** — ai agent that actually does stuff, not just another chatgpt wrapper  
-**[RitualMap](https://github.com/rajdeblol)** — tooling for the ritual ecosystem  
-**[OpinionVibe](https://github.com/rajdeblol)** — interactive opinion thing, was fun to build  
-**[Siggy](https://github.com/rajdeblol)** — creative web experiment, hard to explain just look at it
+**[Reply-AI](https://github.com/rajdeblol/Reply-AI)** — ai agent that actually does stuff, not just another chatgpt wrapper  
+**[RitualMap](https://github.com/rajdeblol/RitualMap)** — tooling for the ritual ecosystem  
+**[OpinionVibe](https://github.com/rajdeblol/OpinionVibe)** — interactive opinion thing, was fun to build  
+**[Siggy](https://github.com/rajdeblol/Siggy)** — creative web experiment, hard to explain just look at it
 
 > half my repos are private because they're either unfinished or too chaotic to share. working on it.
 
