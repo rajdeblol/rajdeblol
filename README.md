@@ -215,7 +215,7 @@ vibe: "ship fast, break things, rebuild cooler"
 
 <div align="center">
 
-<a href="https://twitter.com/rajdeblol">
+<a href="https://x.com/rajlol01">
 <img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://discord.com/">
