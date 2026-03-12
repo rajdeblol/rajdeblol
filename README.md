@@ -1,9 +1,3 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,9,30&text=&section=header)
-
-</div>
-
 ```zsh
 > raj@web3 ~ % neofetch
 ```
@@ -108,4 +102,3 @@ i don't mass follow tutorials — i break stuff, read the source, and figure it 
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,9,30&section=footer)
